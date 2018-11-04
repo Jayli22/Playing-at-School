@@ -1,0 +1,7 @@
+﻿  main.cpp
+d:\dropbox\profolio\c++ game\playing at school\playing at school\drawsprite.h(207): warning C4305: “参数”: 从“double”到“float”截断
+d:\dropbox\profolio\c++ game\playing at school\playing at school\main.cpp(3294): warning C4715: “WndProc”: 不是所有的控件路径都返回值
+Character.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/OPT:ICF”规范)
+  LINK : 已指定 /LTCG，但不需要生成代码；从链接命令行中移除 /LTCG 以提高链接器性能
+  Playing at School.vcxproj -> D:\Dropbox\Profolio\C++ game\Playing at School\Release\Playing at School.exe
+  Playing at School.vcxproj -> D:\Dropbox\Profolio\C++ game\Playing at School\Release\Playing at School.pdb (Full PDB)
